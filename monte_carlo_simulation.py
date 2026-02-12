@@ -7,7 +7,6 @@ networks via preferential attachment, runs Monte Carlo simulations of disease
 dynamics, and produces analysis plots showing how infection/recovery rates
 and network topology affect epidemic outcomes.
 
-Authors: Carlos Arcusa, Daniela Gonzalez, Carolina Kogan, Daniyar Kassymov
 """
 
 import numpy as np
